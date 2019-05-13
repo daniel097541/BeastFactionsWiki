@@ -5,7 +5,7 @@ This is BeastFactions the next gen factions plugin!
 ***
 
 ## Help Guides
-- [x] [Commands and Permissions](https://github.com/drtshock/Factions/wiki/Commands)
+- [x] [Commands and Permissions](https://github.com/daniel097541/BeastFactionsWiki/wiki/Commands-and-Permissions)
 - [x] [/f perms](https://github.com/drtshock/Factions/wiki/f-perm)
 - [x] [Placeholders](https://github.com/drtshock/Factions/wiki/Placeholders)
 - [x] [Lang.yml file](https://github.com/drtshock/Factions/wiki/lang.yml-file)
