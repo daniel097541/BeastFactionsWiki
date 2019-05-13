@@ -13,7 +13,9 @@ This is BeastFactions the next gen factions plugin!
 - [x] [Customizable Faction Roles](https://github.com/drtshock/Factions/wiki/Faction-Warps)
 - [x] [Customizable Faction Relations](https://github.com/drtshock/Factions/wiki/Faction-Warps)
 - [x] [Customizable System Factions](https://github.com/drtshock/Factions/wiki/Faction-Warps)
-- [x] [MySQL Available](https://github.com/drtshock/Factions/wiki/Faction-Warps)
+- [x] [MySQL Compatibility](https://github.com/drtshock/Factions/wiki/Faction-Warps)
+- [x] [Async Factions Top](https://github.com/drtshock/Factions/wiki/Faction-Warps)
+- [x] [MySQL Compatible](https://github.com/drtshock/Factions/wiki/Faction-Warps)
 - [x] [FAQ](https://github.com/drtshock/Factions/wiki/FAQ)
 - [x] [API](https://github.com/drtshock/Factions/wiki/Developer-Help)
 
