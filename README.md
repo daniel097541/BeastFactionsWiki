@@ -1,4 +1,4 @@
-![](https://ibb.co/4jWBZjd)
+![](https://i.ibb.co/4jWBZjd/beastfactionslogo.png)
 
 This is BeastFactions the next gen factions plugin!
 
