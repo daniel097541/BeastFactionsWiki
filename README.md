@@ -9,7 +9,7 @@ This is BeastFactions the next gen factions plugin!
 ## Help Guides
 - [x] [Commands and Permissions](https://github.com/daniel097541/BeastFactionsWiki/wiki/Commands-and-Permissions)
 - [x] [/f perms](https://github.com/daniel097541/BeastFactionsWiki/wiki/Faction-permissions)
-- [x] [Faction Warps](https://github.com/drtshock/Factions/wiki/Faction-Warps)
+- [x] [Faction Warps](https://github.com/daniel097541/BeastFactionsWiki/wiki/Faction-warps)
 - [x] [Customizable Faction Roles](https://github.com/daniel097541/BeastFactionsWiki/wiki/Customizable-roles)
 - [x] [Customizable Faction Relations](https://github.com/drtshock/Factions/wiki/Faction-Warps)
 - [x] [Customizable System Factions](https://github.com/drtshock/Factions/wiki/Faction-Warps)
