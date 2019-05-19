@@ -15,7 +15,7 @@ This is BeastFactions the next gen factions plugin!
 - [x] [Customizable System Factions](https://github.com/daniel097541/BeastFactionsWiki/wiki/System-Factions)
 - [x] [Lang.yml file](https://github.com/daniel097541/BeastFactionsWiki/wiki/Lang.yml)
 - [x] [MySQL Compatibility](https://github.com/daniel097541/BeastFactionsWiki/wiki/MySQL)
-- [x] [Async Factions Top](https://github.com/drtshock/Factions/wiki/Faction-Warps)
+- [x] [Async Factions Top](https://github.com/daniel097541/BeastFactionsWiki/wiki/Async-Factions-Top)
 - [x] [Placeholders](https://github.com/daniel097541/BeastFactionsWiki/wiki/Placeholders)
 - [x] [API](https://github.com/drtshock/Factions/wiki/Developer-Help)
 
