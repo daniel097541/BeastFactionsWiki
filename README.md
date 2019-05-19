@@ -17,7 +17,7 @@ This is BeastFactions the next gen factions plugin!
 - [x] [MySQL Compatibility](https://github.com/daniel097541/BeastFactionsWiki/wiki/MySQL)
 - [x] [Async Factions Top](https://github.com/daniel097541/BeastFactionsWiki/wiki/Async-Factions-Top)
 - [x] [Placeholders](https://github.com/daniel097541/BeastFactionsWiki/wiki/Placeholders)
-- [x] [API](https://github.com/drtshock/Factions/wiki/Developer-Help)
+- [x] [API](https://github.com/daniel097541/BeastFactionsWiki/wiki/API)
 
 
 [![Discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/szs3jDe)
