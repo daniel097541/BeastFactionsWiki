@@ -1,0 +1,19 @@
+name: BeastFactions
+version: ${project.version}
+main: com.beastsoftware.beastfactions.BeastFactions
+api-version: 1.13
+authors: [BrutalThaBeast]
+softdepend:
+  - Vault
+  - EpicSpawners
+  - PlaceholderAPI
+  - WorldEdit
+commands:
+  factions:
+    aliases:
+      - beastfactions
+      - f
+      - bf
+      - beastf
+      - fac
+      - faction
