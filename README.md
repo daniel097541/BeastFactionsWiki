@@ -11,7 +11,7 @@ This is BeastFactions the next gen factions plugin!
 - [x] [/f perms](https://github.com/daniel097541/BeastFactionsWiki/wiki/Faction-permissions)
 - [x] [Faction Warps](https://github.com/daniel097541/BeastFactionsWiki/wiki/Faction-warps)
 - [x] [Customizable Faction Roles](https://github.com/daniel097541/BeastFactionsWiki/wiki/Customizable-roles)
-- [x] [Customizable Faction Relations](https://github.com/drtshock/Factions/wiki/Faction-Warps)
+- [x] [Customizable Faction Relations](https://github.com/daniel097541/BeastFactionsWiki/wiki/Factions-Relations)
 - [x] [Customizable System Factions](https://github.com/drtshock/Factions/wiki/Faction-Warps)
 - [x] [Lang.yml file](https://github.com/drtshock/Factions/wiki/lang.yml-file)
 - [x] [MySQL Compatibility](https://github.com/drtshock/Factions/wiki/Faction-Warps)
