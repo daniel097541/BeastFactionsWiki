@@ -1,7 +1,6 @@
 package info.beastsoftware.beastfactions.factions.entity.impl;
 
 import info.beastsoftware.beastfactions.BeastFactions;
-import com.beastsoftware.beastfactions.factions.entity.*;
 import info.beastsoftware.beastfactions.factions.entity.*;
 import info.beastsoftware.beastfactions.factions.event.callback.GetFactionCallBackEvent;
 import org.bukkit.Bukkit;
