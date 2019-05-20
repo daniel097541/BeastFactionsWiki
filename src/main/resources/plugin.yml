@@ -1,6 +1,6 @@
 name: BeastFactions
 version: ${project.version}
-main: com.beastsoftware.beastfactions.BeastFactions
+main: info.beastsoftware.beastfactions.BeastFactions
 api-version: 1.13
 authors: [BrutalThaBeast]
 softdepend:

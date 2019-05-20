@@ -1,7 +1,7 @@
 package utils;
 
-import com.beastsoftware.beastfactions.factions.entity.IFChunk;
-import com.beastsoftware.beastfactions.factions.entity.impl.FChunk;
+import info.beastsoftware.beastfactions.factions.entity.IFChunk;
+import info.beastsoftware.beastfactions.factions.entity.impl.FChunk;
 import org.bukkit.*;
 import org.bukkit.block.Block;
 

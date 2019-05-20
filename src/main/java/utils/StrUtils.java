@@ -1,7 +1,7 @@
 package utils;
 
-import com.beastsoftware.beastfactions.factions.entity.IFPlayer;
-import com.beastsoftware.beastfactions.factions.util.JSONMessage;
+import info.beastsoftware.beastfactions.factions.entity.IFPlayer;
+import info.beastsoftware.beastfactions.factions.util.JSONMessage;
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.command.CommandSender;
