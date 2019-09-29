@@ -20,4 +20,4 @@ This is BeastFactions the next gen factions plugin!
 - [x] [API](https://github.com/daniel097541/BeastFactionsWiki/wiki/API)
 
 
-[![Discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/szs3jDe)
+[![Discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/ST3Vq6S)
